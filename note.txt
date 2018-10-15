@@ -4,3 +4,5 @@
 4、主配置文件配置的端口为80
 5、运行启动类，访问localhost:80
 6、账号密码：admin
+7、本项目已经打成jar包，方法：cd到源代码里面
+   然后mvn clean&mvn install -DskipTests
